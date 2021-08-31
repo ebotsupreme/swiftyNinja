@@ -455,4 +455,6 @@ class GameScene: SKScene {
         nextSequenceQueued = false
         
     }
+    
+    // Skip challenges
 }
